@@ -11,7 +11,7 @@ CocoaPods is a dependency manager for Cocoa projects. You can install it with th
 <pre>
 $ gem install cocoapods
 </pre>
-CocoaPods 1.1+ is required to build Sinder 4.0+.
+CocoaPods 1.1+ is required to build Sinder 1.0+.
 To integrate Sinder into your Xcode project using CocoaPods, specify it in your Podfile:
 <pre>
 source 'https://github.com/CocoaPods/Specs.git'
