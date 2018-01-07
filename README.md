@@ -12,13 +12,13 @@ CocoaPods is a dependency manager for Cocoa projects. You can install it with th
 $ gem install cocoapods
 </pre>
 CocoaPods 1.1+ is required to build Alamofire 4.0+.
-To integrate Alamofire into your Xcode project using CocoaPods, specify it in your Podfile:
+To integrate Sinder into your Xcode project using CocoaPods, specify it in your Podfile:
 <pre>
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '10.0'
 use_frameworks!
 
-target '<Your Target Name>' do
+target 'Your Target Name' do
     pod 'Sinder'
 end
 </pre>
