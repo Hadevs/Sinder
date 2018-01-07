@@ -1,11 +1,11 @@
 # Sinder
-<p>
+
 Sinder is framework with usefull functions for use cases, which we meeting in practice every day.
-    <p>
+
 ![Alt text](sinder_banner.png?raw=true "")
 **Installation**
 ============
-## CocoaPods
+# CocoaPods
 
 CocoaPods is a dependency manager for Cocoa projects. You can install it with the following command:
 <pre>
